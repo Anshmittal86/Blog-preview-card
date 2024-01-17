@@ -10,7 +10,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -53,13 +52,6 @@ I learned lots of more from project.
 ### Continued development
 
 "I am committed to actively developing challenges on the Frontend Mentor website to enhance my skills and knowledge as a frontend web developer. My goal is to complete a set number of challenges at least 4 in a month. I am passionate about frontend development and excited about the opportunity to grow and excel in this dynamic field."
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
