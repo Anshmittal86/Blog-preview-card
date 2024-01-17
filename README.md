@@ -26,8 +26,8 @@ This project is a responsive blog preview card created as a challenge from Front
 
 ### Links
 
-- Solution URL: [See here](https://your-solution-url.com)
-- Live Site URL: [Live here](https://your-live-site-url.com)
+- Solution URL: [See here](https://github.com/Anshmittal86/Blog-preview-card/)
+- Live Site URL: [Live here](https://anshmittal86.github.io/Blog-preview-card/)
 
 ### Built with
 
