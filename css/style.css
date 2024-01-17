@@ -118,6 +118,12 @@ main {
 .blog_creator_name { font-weight: var(--font-weight-extra-bold);
 }
 
+@media (min-width: 425px) {
+  :root {
+    --font-size-lg: 2.5rem;
+  }
+}
+
 /*============{Attribution}============*/
 
 .attribution {
