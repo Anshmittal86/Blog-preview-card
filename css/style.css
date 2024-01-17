@@ -54,7 +54,7 @@ main {
 
 .container {
   width: 100%;
-  max-width: 350px;
+  max-width: 370px;
   background-color: var(--neutral-white);
   padding: 2rem;
   border-radius: 2rem;
