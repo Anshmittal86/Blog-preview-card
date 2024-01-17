@@ -1,6 +1,6 @@
 # Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
@@ -10,8 +10,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -27,9 +27,8 @@ This project is a responsive blog preview card created as a challenge from Front
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [See here](https://your-solution-url.com)
+- Live Site URL: [Live here](https://your-live-site-url.com)
 
 ### Built with
 
@@ -43,23 +42,26 @@ This project is a responsive blog preview card created as a challenge from Front
 ### What I learned
 
 I learned lots of more from project.
+
 - How to make responsive font-sizes in one line css code
 - How to make code more readable for others
 - How to make code more clean
 - How to make project maintainable using comments
-And also...
+  And also...
 - How to use css variable for telling which colors and typography is used to make this project
-
-
 
 ### Continued development
 
 "I am committed to actively developing challenges on the Frontend Mentor website to enhance my skills and knowledge as a frontend web developer. My goal is to complete a set number of challenges at least 4 in a month. I am passionate about frontend development and excited about the opportunity to grow and excel in this dynamic field."
 
+### Useful resources
+
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Frontend Mentor - [@Anshmittal86](https://www.frontendmentor.io/profile/Anshmittal86)
 - LinkedIn - [@Anshmittal86](https://www.linkedin.com/in/anshmittal86)
-
-
